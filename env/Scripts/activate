@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\felip\Desktop\U-laverga\4-Semestre\Pygroup-web-edition\Tarea_1\env"
+VIRTUAL_ENV="C:\Users\felip\Desktop\U-laverga\4-Semestre\Pygroup-web-edition\Tareas\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
